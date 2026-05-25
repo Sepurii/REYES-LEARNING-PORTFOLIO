@@ -24,10 +24,6 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
-  text-decoration: underline;
-}
-
 main {
   max-width: 800px;
   margin: 20px auto;
